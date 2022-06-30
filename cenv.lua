@@ -60,7 +60,7 @@ getgenv()['cenv'].Find = function(function_name)
     end;
 end;
 --// Responsible for copying in SG.Generate
-getgenv()['cenv'].Copy = true;
+getgenv()['cenv'].Copy = false;
 --// Notify about loading
 printconsole(('Custom functions finished loading, took: %.8f'):format(tick() - Timer),0,127,255);
 printconsole(('Compatibility test is %s'):format(cenv.Test() and 'succeed' or 'failed'),0,218,148);

@@ -1,6 +1,6 @@
 local Timer = tick();
 --// Generator
-local SG =  loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/strsplspace/utils/main/Generator.lua'))();
+local SG =  loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Natives3000/cenv/main/Generator.lua'))();
 
 local Functions = {
     --// Paste function here

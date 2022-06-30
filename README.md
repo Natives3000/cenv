@@ -2,7 +2,7 @@ Credit: https://github.com/strsplspace/utils
 
 # Loader
 ```lua
-loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/strsplspace/utils/main/cenv.lua'))();
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Natives3000/cenv/main/cenv.lua'))();
 ```
 # Usage
 
